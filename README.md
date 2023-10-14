@@ -13,6 +13,7 @@ Repositório para armazenar resumos e estudos sobre Metabase
 | Aulas  | Sobre |
 | ------------- | ------------- |
 | Primeiro dia   | Trabalhando com variáveis em Python para gerenciar dados |
+|Segundo dia | Datas types e como manipular strings|
 
 
 
