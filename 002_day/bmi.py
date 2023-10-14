@@ -1,7 +1,8 @@
 
-height = input()
-weight = input()
-# Your code below this line 👇
+
+height = float(input("Say your height"))
+weight = int(input("Say you weight"))
+
 weight_as_int = int(weight)
 height_as_float = float(height)
 # Using the exponent operator **
